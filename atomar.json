@@ -1,7 +1,7 @@
 {
   "name": "infinite_scroll",
-  "version": "1.0.0",
-  "atomar_version": "0.2",
+  "version": "1.0.1",
+  "atomar_version": "0.2.*",
   "description": "An infinitely scrolling list",
   "author": "Joel Lonbeck <joel@neutrinographics.com>"
 }
